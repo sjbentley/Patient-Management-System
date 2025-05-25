@@ -1,55 +1,61 @@
-### Patient Management System</h3>
+<div align="center">
+  <h1>Patient Management System</h1>
+  <p><strong>A modern, full-featured healthcare patient management system built for patients and administrators.</strong></p>
 
----
+  [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
+  [![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite&logoColor=white)](https://appwrite.io/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+  [![ShadCN](https://img.shields.io/badge/ShadCN_UI-1E293B?logo=vercel&logoColor=white)](https://ui.shadcn.dev/)
+  [![Twilio](https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white)](https://www.twilio.com/)
 
-## 📋 Table of Contents
+</div>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
+--- 
 
----
-
-## 🤖 Introduction
+### Patient Management System
 
 A patient management application that allows patients to register, book, and manage appointments, while administrators can schedule, confirm, or cancel appointments. The system also features SMS notifications via Twilio, secure file storage using Appwrite, and performance monitoring with Sentry.
 
----
+<br>
 
-## ⚙️ Tech Stack
-
-- **Next.js**
-- **Appwrite**
-- **TypeScript**
-- **TailwindCSS**
-- **ShadCN**
-- **Twilio**
+![sirjahibentley®](public/assets/images/index.png)
+![sirjahibentley®](public/assets/images/registration.png)
+![sirjahibentley®](public/assets/images/information.png)
+![sirjahibentley®](public/assets/images/identification.png)
+![sirjahibentley®](public/assets/images/appointment.png)
+![sirjahibentley®](public/assets/images/success.png)
 
 ---
 
 ## 🔋 Features
 
-✅ **Register as a Patient** – Users can sign up and create a personal profile as a patient.
+- **Register as a Patient**  
+  - Sign up and create a secure personal profile.
 
-✅ **Book a Appointment with a Doctor** – Patients can schedule appointments at their convenience.
+- **Book Appointments with Doctors**  
+  - Patients can easily schedule appointments at their convenience.
 
-✅ **Manage Appointments on Admin Side** – Administrators can efficiently view and handle all scheduled appointments.
+- **Admin Dashboard for Appointment Management**  
+  - View, manage, and organize all patient appointments efficiently.
 
-✅ **Confirm/Schedule Appointment from Admin Side** – Admins can confirm/set appointment times.
+- **Confirm / Schedule Appointments (Admin Side)**  
+  - Admins can assign and confirm appointment times.
 
-✅ **Cancel Appointment from Admin Side** – Administrators can cancel any appointment as needed.
+- **Cancel Appointments (Admin Side)**  
+  - Appointments can be canceled or modified as needed by administrators.
 
-✅ **Send SMS on Appointment Confirmation** – Patients receive SMS notifications to confirm their appointment details.
+- **SMS Notifications**  
+  - Automated SMS confirmations sent via Twilio upon appointment approval.
 
-✅ **Complete Responsiveness** – The application works seamlessly on all device types and screen sizes.
+- **File Upload Support**  
+  - Securely upload and store patient files using Appwrite Storage.
 
-✅ **File Upload** – Users can securely upload and store files within the app using Appwrite storage services.
+- **Responsive UI**  
+  - Fully responsive design optimized for mobile, tablet, and desktop devices.
 
-✅ **Manage and Track Application Performance** – The application uses **Sentry** to monitor performance and detect errors.
+- **Performance Monitoring**  
+  - Integrated with **Sentry** to track performance metrics and log application errors.
 
 ---
 
@@ -122,3 +128,7 @@ For further questions or feature requests, open an issue in the repository. 🚀
 ## License
 
 This project is licensed under the MIT License.
+
+---
+
+[Linktr.ee](https://linktr.ee/sirjahibentley) • [Tiktok](https://tiktok.com/@sirjahibentley) • [Instagram](https://instagram.com/sirjahibentley) • [Facebook](https://facebook.com/sirjahibentley)
